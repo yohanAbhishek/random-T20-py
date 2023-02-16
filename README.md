@@ -1,4 +1,4 @@
-# random-T20-py
+# Random-T20-py
 Randomized T20 cricket tournament
 
 This is acommand line application to maintain player and team performances during a T20 cricket tournament. A tournament consists of a one major round. During the round, all teams that are placed in the
@@ -14,5 +14,6 @@ decision to ball first or bat first. Then the program initiates the first inning
 
 4) Additionally, the application can display match summmary for a given match and displays the tournament standings. 
 
-A flowchart of this application can be seen below!
+A flowchart of this application can be seen below.
+
 ![image](https://user-images.githubusercontent.com/100549603/219356165-67c64580-2edc-408f-8a85-0679a50d55a4.png)
